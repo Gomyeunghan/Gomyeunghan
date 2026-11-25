@@ -2,9 +2,9 @@
 
 <br/>
 
-<a href="https://github.com/Gomyeunghan"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=900&color=F5F5F5&center=true&vCenter=true&width=640&height=70&lines=myeunghan.;i+build+things+for+the+web.;sometimes+in+3D." alt="myeunghan" /></a>
+<a href="https://github.com/Gomyeunghan"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=900&color=F5F5F5&center=true&vCenter=true&width=640&height=70&lines=myeunghan.;i+build+things+for+the+web.;pair-programming+with+AI." alt="myeunghan" /></a>
 
-<sub>frontend · 3d web · seoul</sub>
+<sub>frontend · ai-native dev · seoul</sub>
 
 <br/><br/>
 
@@ -15,17 +15,17 @@ $ whoami
 > 화면 너머의 감각을 만드는 사람.
 
 $ cat ./now.txt
-> 별을 띄우고, 컴포넌트를 쪼개고, 새벽에 커밋함.
+> AI랑 페어 프로그래밍하고, 컴포넌트를 쪼개고, 새벽에 커밋함.
 
 $ ls ./likes
-> three.js   다크모드   잘 짜인 구조   쓸데없이 예쁜 인터랙션
+> AI 에이전트   다크모드   잘 짜인 구조   쓸데없이 예쁜 인터랙션
 ```
 
 <br/>
 
 ### ✦ tools of choice
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" />
 
 <br/><br/>
 
