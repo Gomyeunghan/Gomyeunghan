@@ -23,12 +23,6 @@ $ ls ./likes
 
 <br/>
 
-### ✦ tools of choice
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" />
-
-<br/><br/>
-
 ### ✦ recent noise
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gomyeunghan&bg_color=0d1117&color=f5f5f5&line=f5f5f5&point=ffffff&area=true&area_color=444444&hide_border=true&custom_title=commits%20%2F%2030d" width="100%" />
