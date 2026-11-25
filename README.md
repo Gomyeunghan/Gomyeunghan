@@ -19,9 +19,22 @@ $ cat ./now.txt
 
 $ ls ./likes
 > AI 에이전트   다크모드   잘 짜인 구조   쓸데없이 예쁜 인터랙션
+
+$ git log --oneline -1
+> a1b2c3d fix: 어제의 나를 고침
 ```
 
 <br/>
+
+### ✦ insert coin
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gomyeunghan/Gomyeunghan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gomyeunghan/Gomyeunghan/output/pacman-contribution-graph.svg">
+  <img alt="pacman eating my contributions" src="https://raw.githubusercontent.com/Gomyeunghan/Gomyeunghan/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<br/><br/>
 
 ### ✦ recent noise
 
