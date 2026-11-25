@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Gomyeunghan"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=900&color=F5F5F5&center=true&vCenter=true&width=640&height=70&lines=myeunghan.;i+build+things+for+the+web.;pair-programming+with+AI." alt="myeunghan" /></a>
 
-<sub>frontend · ai-native dev · seoul</sub>
+<sub>frontend · ai-native dev · incheon</sub>
 
 <br/><br/>
 
