@@ -37,6 +37,6 @@ $ ls ./likes
 
 <div align="center">
 
-<sub>made with too much coffee ☕ · <a href="https://portfolio-lyart-omega-94.vercel.app">say hi →</a></sub>
+<sub>made with too much coffee ☕ · <a href="https://galaxy-omega-tawny.vercel.app">say hi →</a></sub>
 
 </div>
